@@ -1,0 +1,60 @@
+@import '_variables';
+@import '_functions';
+
+.textNav{
+    font-family: monospace;
+    color: $colorTitles;
+}
+
+.carousel-1{
+
+    h3{
+        @include functionTitles;
+    }
+
+    p{
+        font-family: monospace;
+        color: $colorTexts;
+    }
+}
+
+.section-1{
+
+    h1{
+        @include functionTitles;
+    }
+
+    h4{
+        font-family: monospace;
+        color: $colorTexts;  
+    }
+}
+.section-2{
+
+    h1{
+        @include functionTitles;
+    }
+
+    .listTopics{
+        @include functionList;  
+    }
+
+    .listPadding{
+        padding-top: 20px;
+    }
+}
+
+.section-3{
+
+    h1{
+        @include functionTitles;
+    }
+
+    .listTopics{
+        @include functionList;  
+    }
+
+    .listPadding{
+        padding-top: 20px;
+    }
+}

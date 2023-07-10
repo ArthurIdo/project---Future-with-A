@@ -1,0 +1,12 @@
+@mixin functionTitles () {
+    padding-top: 100px;
+    font-family: monospace;
+    font-size: 100;
+    color: $colorTitles;
+}
+
+@mixin functionList () {
+    list-style: decimal;
+    font-family: monospace;
+    color: $colorTexts;
+}

@@ -1,0 +1,56 @@
+.textNav {
+  font-family: monospace;
+  color: rgb(195, 0, 255);
+}
+
+.carousel-1 h3 {
+  padding-top: 100px;
+  font-family: monospace;
+  font-size: 100;
+  color: rgb(195, 0, 255);
+}
+.carousel-1 p {
+  font-family: monospace;
+  color: rgb(17, 255, 0);
+}
+
+.section-1 h1 {
+  padding-top: 100px;
+  font-family: monospace;
+  font-size: 100;
+  color: rgb(195, 0, 255);
+}
+.section-1 h4 {
+  font-family: monospace;
+  color: rgb(17, 255, 0);
+}
+
+.section-2 h1 {
+  padding-top: 100px;
+  font-family: monospace;
+  font-size: 100;
+  color: rgb(195, 0, 255);
+}
+.section-2 .listTopics {
+  list-style: decimal;
+  font-family: monospace;
+  color: rgb(17, 255, 0);
+}
+.section-2 .listPadding {
+  padding-top: 20px;
+}
+
+.section-3 h1 {
+  padding-top: 100px;
+  font-family: monospace;
+  font-size: 100;
+  color: rgb(195, 0, 255);
+}
+.section-3 .listTopics {
+  list-style: decimal;
+  font-family: monospace;
+  color: rgb(17, 255, 0);
+}
+.section-3 .listPadding {
+  padding-top: 20px;
+}/*# sourceMappingURL=style.css.map */
